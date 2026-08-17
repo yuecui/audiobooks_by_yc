@@ -1,0 +1,3426 @@
+{
+  "config": {
+    "profiles": {
+      "narrator": [
+        "Alloy"
+      ],
+      "male": [
+        "George",
+        "Daniel",
+        "Fable",
+        "Lewis"
+      ],
+      "female": [
+        "Emma",
+        "Isabella",
+        "Sarah",
+        "Laura"
+      ],
+      "unknown": [
+        "Alloy"
+      ]
+    },
+    "character_genders": {
+      "jim-salt": "unknown",
+      "rachel-poyser": "female",
+      "sarah-stone": "female",
+      "adam": "male",
+      "adam-bede": "male",
+      "archie": "male",
+      "archie-dummilow": "male",
+      "baker": "male",
+      "bale": "male",
+      "barnes": "male",
+      "bartle": "male",
+      "bartle-massey": "male",
+      "bede": "unknown",
+      "ben": "male",
+      "ben-tholoway": "male",
+      "bessy": "female",
+      "bessy-cranage": "female",
+      "best": "female",
+      "bethell": "unknown",
+      "betty": "female",
+      "bill": "male",
+      "bill-downes": "male",
+      "billy": "male",
+      "billy-taft": "male",
+      "binton-coppice": "unknown",
+      "blick": "male",
+      "bob": "male",
+      "bob-tholer": "male",
+      "bridget": "female",
+      "britton": "unknown",
+      "brother": "unknown",
+      "brother-marlowe": "male",
+      "burge": "unknown",
+      "bygate": "male",
+      "captain-later-colonel-arthur": "unknown",
+      "captain-later-colonel-arthur-donnithorne": "male",
+      "carroll": "male",
+      "casson": "male",
+      "chad": "male",
+      "chad-cranage": "male",
+      "chaplain-of-the-jail": "unknown",
+      "chester": "unknown",
+      "chowne": "female",
+      "choyce": "unknown",
+      "coachman-from-oakbourne": "male",
+      "colonel": "unknown",
+      "colonel-townley": "male",
+      "constable": "male",
+      "craig": "male",
+      "cranage": "unknown",
+      "d-oyley": "unknown",
+      "dacey": "unknown",
+      "dalton": "unknown",
+      "david": "male",
+      "dent": "unknown",
+      "dinah": "female",
+      "dinah-morris": "female",
+      "dingall": "male",
+      "dolly": "female",
+      "donnithorne": "unknown",
+      "downes": "male",
+      "dummilow": "male",
+      "fido": "unknown",
+      "fletcher": "female",
+      "gawaine": "unknown",
+      "gedge": "male",
+      "gil": "male",
+      "gil-tranter": "male",
+      "goby": "male",
+      "godwin": "male",
+      "growler": "unknown",
+      "gyp": "unknown",
+      "hazelow": "male",
+      "hester": "unknown",
+      "holdsworth": "male",
+      "innkeeper": "male",
+      "irwine": "unknown",
+      "jacob": "male",
+      "jacob-storey": "male",
+      "feyther-taft": "male",
+      "james": "male",
+      "jim": "unknown",
+      "gentleman-wakefield": "male",
+      "john": "male",
+      "john-barnes": "male",
+      "john-olding": "male",
+      "jonathan": "male",
+      "jonathan-burge": "male",
+      "josh": "male",
+      "josh-tod": "male",
+      "joshua": "male",
+      "joshua-rann": "male",
+      "judith": "female",
+      "juno": "unknown",
+      "kester": "male",
+      "kester-bale": "male",
+      "kitty": "female",
+      "lisbeth": "female",
+      "lisbeth-bede": "female",
+      "loamshire-militia": "unknown",
+      "luke": "male",
+      "luke-britton": "male",
+      "marlowe": "male",
+      "martin": "male",
+      "martin-poyser": "male",
+      "marty": "male",
+      "marty-poyser": "male",
+      "mary": "female",
+      "mary-burge": "female",
+      "maskery": "unknown",
+      "massey": "male",
+      "matthias": "male",
+      "meg": "female",
+      "michael": "male",
+      "michael-holdsworth": "male",
+      "mills": "male",
+      "miss-anne": "unknown",
+      "miss-anne-irwine": "female",
+      "miss-kate": "unknown",
+      "miss-kate-irwine": "female",
+      "miss-lydia": "unknown",
+      "miss-lydia-donnithorne": "female",
+      "molly": "female",
+      "morris": "female",
+      "mrs-jim": "unknown",
+      "mrs-jim-salt": "female",
+      "mrs-rachel": "unknown",
+      "mrs-rachel-poyser": "female",
+      "mrs-sarah": "unknown",
+      "mrs-sarah-stone": "female",
+      "nancy": "female",
+      "old-brown": "unknown",
+      "old-martin": "unknown",
+      "old-martin-poyser": "male",
+      "old-woman": "female",
+      "olding": "male",
+      "ottley": "male",
+      "phillips": "male",
+      "pomfret": "female",
+      "poyser": "unknown",
+      "pug": "unknown",
+      "pym": "male",
+      "rachel": "female",
+      "ralph": "male",
+      "rann": "unknown",
+      "rattler": "unknown",
+      "roe": "male",
+      "ryde": "male",
+      "salkeld": "unknown",
+      "sally": "female",
+      "sally-rann": "female",
+      "salt": "unknown",
+      "sam": "male",
+      "sam-phillips": "male",
+      "sarah": "female",
+      "sarah-williamson": "female",
+      "satchell": "female",
+      "seth": "male",
+      "seth-bede": "male",
+      "snowfield": "unknown",
+      "snowfield-old-woman": "female",
+      "sorrel": "male",
+      "squire": "unknown",
+      "squire-donnithorne": "male",
+      "stone": "female",
+      "stoniton": "unknown",
+      "stoniton-chaplain-of-the-jail": "unknown",
+      "storey": "male",
+      "taft": "male",
+      "the-reverend-adolphus": "unknown",
+      "the-reverend-adolphus-irwine": "male",
+      "tholer": "male",
+      "tholoway": "male",
+      "thurle": "male",
+      "tim": "male",
+      "timothy-s-bess-s-ben": "male",
+      "tod": "male",
+      "tom": "male",
+      "tom-hazelow": "male",
+      "tommy": "male",
+      "tommy-poyser": "male",
+      "totty": "female",
+      "totty-poyser": "female",
+      "townley": "male",
+      "tradgett": "female",
+      "tranter": "male",
+      "trip": "unknown",
+      "trot": "unknown",
+      "vixen": "unknown",
+      "wakefield": "male",
+      "west": "male",
+      "will": "male",
+      "will-baker": "male",
+      "will-maskery": "male",
+      "williamson": "female",
+      "young-luke": "unknown",
+      "young-luke-britton": "male",
+      "young-mike": "unknown",
+      "young-mike-holdsworth": "male",
+      "sandy-jim": "male",
+      "addy": "male",
+      "hetty": "unknown",
+      "hetty-hester-sorrel": "unknown",
+      "thias": "male",
+      "thias-matthias-bede": "unknown",
+      "wiry-ben": "male",
+      "ben-cranage": "male"
+    },
+    "character_profiles": {
+      "optional-character-id": [
+        "George",
+        "Daniel"
+      ]
+    },
+    "minimum_confidence": 0.75,
+    "language": "en",
+    "engine": "kokoro",
+    "model_size": null,
+    "instruction": "Speak in a natural British English accent suitable for a literary audiobook. Preserve the emotion and punctuation of the passage."
+  },
+  "segments": [
+    {
+      "index": 1,
+      "kind": "narration",
+      "text": "The Workshop With a single drop of ink for a mirror, the Egyptian sorcerer undertakes to reveal to any chance comer far-reaching visions of the past. This is what I undertake to do for you, reader. With this drop of ink at the end of my pen, I will show you the roomy workshop of Mr. Jonathan Burge, carpenter and builder, in the village of Hayslope, as it appeared on the eighteenth of June, in the year of our Lord 1799.",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0001_narration_alloy_47dbaa77443641f7.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0001_narration_alloy_47dbaa77443641f7.wav"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "kind": "narration",
+      "text": "The afternoon sun was warm on the five workmen there, busy upon doors and window-frames and wainscoting. A scent of pine-wood from a tentlike pile of planks outside the open door mingled itself with the scent of the elder-bushes which were spreading their summer snow close to the open window opposite; the slanting sunbeams shone through the transparent shavings that flew before the steady plane, and lit up the fine grain of the oak panelling which stood propped against the wall. On a heap of those soft shavings a rough, grey shepherd dog had made himself a pleasant bed, and was lying with his nose between his fore-paws, occasionally wrinkling his brows to cast a glance at the tallest of the five workmen, who was carving a shield in the centre of a wooden mantelpiece. It was to this workman that the strong barytone belonged which was heard above the sound of plane and hammer singing—",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0002_narration_alloy_af5100b7af8e3adc.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0002_narration_alloy_af5100b7af8e3adc.wav"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "kind": "narration",
+      "text": "Awake, my soul, and with the sun Thy daily stage of duty run; Shake off dull sloth... Here some measurement was to be taken which required more concentrated attention, and the sonorous voice subsided into a low whistle; but it presently broke out again with renewed vigour— Let all thy converse be sincere, Thy conscience as the noonday clear.",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0003_narration_alloy_c326d9ca47931756.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0003_narration_alloy_c326d9ca47931756.wav"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "kind": "narration",
+      "text": "Such a voice could only come from a broad chest, and the broad chest belonged to a large-boned, muscular man nearly six feet high, with a back so flat and a head so well poised that when he drew himself up to take a more distant survey of his work, he had the air of a soldier standing at ease. The sleeve rolled up above the elbow showed an arm that was likely to win the prize for feats of strength; yet the long supple hand, with its broad finger-tips, looked ready for works of skill. In his tall stalwartness Adam Bede was a Saxon, and justified his name; but the jet-black hair, made the more noticeable by its contrast with the light paper cap, and the keen glance of the dark eyes that shone from under strongly marked, prominent and mobile eyebrows, indicated a mixture of Celtic blood.",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0004_narration_alloy_c600792a2b11274f.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0004_narration_alloy_c600792a2b11274f.wav"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "kind": "narration",
+      "text": "The face was large and roughly hewn, and when in repose had no other beauty than such as belongs to an expression of good-humoured honest intelligence. It is clear at a glance that the next workman is Adam's brother. He is nearly as tall; he has the same type of features, the same hue of hair and complexion; but the strength of the family likeness seems only to render more conspicuous the remarkable difference of expression both in form and face. Seth's broad shoulders have a slight stoop; his eyes are grey; his eyebrows have less prominence and more repose than his brother's; and his glance, instead of being keen, is confiding and benign. He has thrown off his paper cap, and you see that his hair is not thick and straight, like Adam's, but thin and wavy, allowing you to discern the exact contour of a coronal arch that predominates very decidedly over the brow.",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0005_narration_alloy_a71a0566318ca01e.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0005_narration_alloy_a71a0566318ca01e.wav"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "kind": "narration",
+      "text": "The idle tramps always felt sure they could get a copper from Seth; they scarcely ever spoke to Adam. The concert of the tools and Adam's voice was at last broken by Seth, who, lifting the door at which he had been working intently, placed it against the wall, and said,",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0006_narration_alloy_4229b8761e03e56c.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0006_narration_alloy_4229b8761e03e56c.wav"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "kind": "dialogue",
+      "text": "“There! I've finished my door to-day, anyhow.”",
+      "speaker_id": "seth",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00001",
+      "source": "before-name-verb",
+      "confidence": 0.96,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0007_dialogue_george_04bf0c1a559a8b9a.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0007_dialogue_george_04bf0c1a559a8b9a.wav",
+          "generation_id": "661c0f0a-c5d8-41f2-8ef4-8e7b015a4d96",
+          "duration_seconds": 3.3
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0007_dialogue_daniel_23b6e4e3228a6b7f.wav",
+          "generation_id": "72e41283-c310-405e-b39f-1ebabe548a20",
+          "duration_seconds": 2.975
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0007_dialogue_fable_d62c8b4128d22fc9.wav",
+          "generation_id": "91d1790a-82a1-46d6-9aea-03bc893dc9c3",
+          "duration_seconds": 3.175
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0007_dialogue_lewis_e9afbf79133ef362.wav",
+          "generation_id": "7f51e2af-cf6c-4105-badf-5319595cc4b3",
+          "duration_seconds": 3.4
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "kind": "narration",
+      "text": "The workmen all looked up; Jim Salt, a burly, red-haired man known as Sandy Jim, paused from his planing, and Adam said to Seth, with a sharp glance of surprise,",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0008_narration_alloy_bc6e66426d0f964a.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0008_narration_alloy_bc6e66426d0f964a.wav"
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "kind": "dialogue",
+      "text": "“What! Dost think thee'st finished the door?”",
+      "speaker_id": "adam",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00002",
+      "source": "before-name-verb",
+      "confidence": 0.96,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0009_dialogue_george_85f5bced062ba665.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0009_dialogue_george_85f5bced062ba665.wav",
+          "generation_id": "08192d54-c639-4059-886c-3124231c1678",
+          "duration_seconds": 3.175
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0009_dialogue_daniel_5af567466020bef6.wav",
+          "generation_id": "fae310ca-2644-43ad-87f4-84315f6bafc4",
+          "duration_seconds": 2.9
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0009_dialogue_fable_6ceb16ae36dd6a53.wav",
+          "generation_id": "864e4d72-a19b-4f15-8809-c1728916f7e6",
+          "duration_seconds": 3.175
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0009_dialogue_lewis_b3e2fabaa7eab337.wav",
+          "generation_id": "267edb6e-394d-4738-915b-788002324e21",
+          "duration_seconds": 3.325
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "kind": "dialogue",
+      "text": "“Aye, sure,”",
+      "speaker_id": "seth",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00003",
+      "source": "after-verb-name",
+      "confidence": 0.98,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0010_dialogue_george_e03a2ad4b7a772f8.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0010_dialogue_george_e03a2ad4b7a772f8.wav",
+          "generation_id": "57cd250b-6454-4c22-85ee-e6871f966fd7",
+          "duration_seconds": 1.6
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0010_dialogue_daniel_5ff451553048b738.wav",
+          "generation_id": "79f43a29-7493-41a0-863e-8d985109b7cd",
+          "duration_seconds": 1.35
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0010_dialogue_fable_a0c8d436d37035d5.wav",
+          "generation_id": "89d96c1c-f033-422a-8fc4-927121101489",
+          "duration_seconds": 1.375
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0010_dialogue_lewis_6a9dfed0d848ef98.wav",
+          "generation_id": "2e488d8e-4db3-490d-adb2-786b84375e31",
+          "duration_seconds": 1.65
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "kind": "narration",
+      "text": "said Seth, with answering surprise;",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0011_narration_alloy_40b3c7ee15e89088.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0011_narration_alloy_40b3c7ee15e89088.wav"
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "kind": "dialogue",
+      "text": "“what's awanting to't?”",
+      "speaker_id": "seth",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00004",
+      "source": "before-verb-name",
+      "confidence": 0.94,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0012_dialogue_george_5481fc2f19a81bce.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0012_dialogue_george_5481fc2f19a81bce.wav",
+          "generation_id": "bae05e45-a69b-4777-a6e1-3e2183ccb5c9",
+          "duration_seconds": 2.1
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0012_dialogue_daniel_863963db192e8617.wav",
+          "generation_id": "85d808b2-98c8-448f-94c1-abe27b57b973",
+          "duration_seconds": 2.05
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0012_dialogue_fable_74f473d296770eb0.wav",
+          "generation_id": "a9c64c2d-9a32-469e-97d2-436dd795c5ba",
+          "duration_seconds": 1.9
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0012_dialogue_lewis_485166b6c4dcc0b5.wav",
+          "generation_id": "94f8a5b4-14ad-4e10-927d-39d3b53e6020",
+          "duration_seconds": 2.25
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "kind": "narration",
+      "text": "A loud roar of laughter from the other three workmen made Dinah look round confusedly. Adam did not join in the laughter, but there was a slight smile on his face as he said, in a gentler tone than before,",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0013_narration_alloy_c1d2314e199be0d2.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0013_narration_alloy_c1d2314e199be0d2.wav"
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "kind": "dialogue",
+      "text": "“Why, thee'st forgot the panels.”",
+      "speaker_id": "adam",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00005",
+      "source": "before-name-verb",
+      "confidence": 0.96,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0014_dialogue_george_38008917cee2225e.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0014_dialogue_george_38008917cee2225e.wav",
+          "generation_id": "64da1bd9-7e99-44c0-b0c0-270e1938b4dd",
+          "duration_seconds": 2.8
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0014_dialogue_daniel_03220d3b11ca2b1b.wav",
+          "generation_id": "3679ecbc-3368-414c-b897-cc2677f23f2d",
+          "duration_seconds": 2.575
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0014_dialogue_fable_becce7c67324d43e.wav",
+          "generation_id": "3fbf43e0-ff6b-4522-a071-b5d78b41d923",
+          "duration_seconds": 2.9
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0014_dialogue_lewis_3f512781b692da82.wav",
+          "generation_id": "149405d8-9855-4df3-9263-cc10c2c3bec6",
+          "duration_seconds": 2.925
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "kind": "narration",
+      "text": "The laughter burst out afresh as Dinah clapped his hands to his head, and coloured over brow and crown.",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0015_narration_alloy_c63519a2efe3c898.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0015_narration_alloy_c63519a2efe3c898.wav"
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "kind": "dialogue",
+      "text": "“Hoorray!”",
+      "speaker_id": "wiry-ben",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00006",
+      "source": "after-verb-name",
+      "confidence": 0.98,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0016_dialogue_george_20bb347006609d1e.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0016_dialogue_george_20bb347006609d1e.wav",
+          "generation_id": "c54beb41-0bcc-4528-abfd-569c68acb839",
+          "duration_seconds": 1.425
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0016_dialogue_daniel_d1451102fd72e7ff.wav",
+          "generation_id": "aa00e2e6-c4ec-414e-b102-684b8ace470f",
+          "duration_seconds": 1.275
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0016_dialogue_fable_b4c80f706ebf1bb7.wav",
+          "generation_id": "f0f02fe4-368a-4851-ac85-d4872afc2c78",
+          "duration_seconds": 1.125
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0016_dialogue_lewis_cf8e311c951e0001.wav",
+          "generation_id": "47ff5374-dd75-414e-94a4-8489ad68a876",
+          "duration_seconds": 1.475
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "kind": "narration",
+      "text": "shouted a small lithe fellow called Wiry Ben, running forward and seizing the door.",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0017_narration_alloy_919b3113ad7fdbee.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0017_narration_alloy_919b3113ad7fdbee.wav"
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "kind": "dialogue",
+      "text": "“We'll hang up th' door at fur end o' th' shop an' write on't ‘Seth Bede, the Methody, his work.' Here, Jim, lend's hould o' th' red pot.”",
+      "speaker_id": "wiry-ben",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00007",
+      "source": "before-verb-name",
+      "confidence": 0.94,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0018_dialogue_george_44b2a8d811d4d493.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0018_dialogue_george_44b2a8d811d4d493.wav",
+          "generation_id": "d8a5a15e-b528-47ee-9849-0a9b78781985",
+          "duration_seconds": 9.4
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0018_dialogue_daniel_9d239f169996c0a9.wav",
+          "generation_id": "5c053799-5043-443a-b6a3-f332cfdf1204",
+          "duration_seconds": 8.0
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0018_dialogue_fable_66b9ab689eafaa0a.wav",
+          "generation_id": "f46c4c1b-51fc-4b01-8d7d-bec6972a90d9",
+          "duration_seconds": 8.575
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0018_dialogue_lewis_a702f79261c841a1.wav",
+          "generation_id": "e3f77039-bd84-446e-90eb-f23347cdffbf",
+          "duration_seconds": 10.0
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "kind": "dialogue",
+      "text": "“Nonsense!”",
+      "speaker_id": "adam",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00008",
+      "source": "after-verb-name",
+      "confidence": 0.98,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0019_dialogue_george_78ef2069443c9a13.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0019_dialogue_george_78ef2069443c9a13.wav",
+          "generation_id": "03eb952d-fabb-4222-bd68-5f18b89d8451",
+          "duration_seconds": 1.675
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0019_dialogue_daniel_d05bc43c83b3792b.wav",
+          "generation_id": "6d50cb2e-7a65-48c8-9afc-0fffe081cc4e",
+          "duration_seconds": 1.525
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0019_dialogue_fable_270487abbb02d849.wav",
+          "generation_id": "d9390116-2543-489c-b411-373aabd05161",
+          "duration_seconds": 1.4
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0019_dialogue_lewis_ce1fae6e7f24bc82.wav",
+          "generation_id": "6bdc4140-2d2c-43f1-93e4-2f943e60cb24",
+          "duration_seconds": 1.75
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "kind": "narration",
+      "text": "said Adam.",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0020_narration_alloy_224496a9dcf404e4.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0020_narration_alloy_224496a9dcf404e4.wav"
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "kind": "dialogue",
+      "text": "“Let it alone, Ben Cranage. You'll mayhap be making such a slip yourself some day; you'll laugh o' th' other side o' your mouth then.”",
+      "speaker_id": "adam",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00009",
+      "source": "before-verb-name",
+      "confidence": 0.94,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0021_dialogue_george_1b8a54e53cfdc384.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0021_dialogue_george_1b8a54e53cfdc384.wav",
+          "generation_id": "8ba78f57-3d12-463a-94de-ae238921817f",
+          "duration_seconds": 8.825
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0021_dialogue_daniel_f864bb71940e520f.wav",
+          "generation_id": "f759623b-ce8f-4e8a-9f9b-0a7fbce63b41",
+          "duration_seconds": 7.7
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0021_dialogue_fable_73a19fb40ca3cb14.wav",
+          "generation_id": "ae0fb9a3-f762-40a1-821b-3687b55f8679",
+          "duration_seconds": 8.0
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0021_dialogue_lewis_b4c5b42958b13b63.wav",
+          "generation_id": "f97c15e9-0719-4f70-b888-15b6e8b6ed9a",
+          "duration_seconds": 9.25
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "kind": "dialogue",
+      "text": "“Catch me at it, Adam. It'll be a good while afore my head's full o' th' Methodies,”",
+      "speaker_id": "ben",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00010",
+      "source": "after-verb-name",
+      "confidence": 0.98,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0022_dialogue_george_c5771b1258d24234.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0022_dialogue_george_c5771b1258d24234.wav",
+          "generation_id": "66e5a2e0-99d5-4eb3-af64-a74d5a4bac57",
+          "duration_seconds": 6.05
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0022_dialogue_daniel_73b53f6883be58be.wav",
+          "generation_id": "017ff28c-9007-4b96-a918-266ee9d812e8",
+          "duration_seconds": 5.2
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0022_dialogue_fable_4d2389eba85bb0b5.wav",
+          "generation_id": "9fb3da8e-204c-4436-9c84-62e3ac760918",
+          "duration_seconds": 5.6
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0022_dialogue_lewis_520dd74dc7886d90.wav",
+          "generation_id": "4ff23778-5c40-4e22-9be5-b2342505eb3e",
+          "duration_seconds": 6.275
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "kind": "narration",
+      "text": "said Ben.",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0023_narration_alloy_3d928efd0af13565.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0023_narration_alloy_3d928efd0af13565.wav"
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "kind": "unresolved-quote",
+      "text": "“Nay, but it's often full o' drink, and that's worse.”",
+      "speaker_id": "#unknown",
+      "gender": "unknown",
+      "profile": "Alloy",
+      "quote_id": "q00011",
+      "source": "unresolved",
+      "confidence": 0.0,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0024_unresolved-quote_alloy_0ad2a51905bfb850.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0024_unresolved-quote_alloy_0ad2a51905bfb850.wav"
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "kind": "narration",
+      "text": "Ben, however, had now got the",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0025_narration_alloy_8ac23f878a922068.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0025_narration_alloy_8ac23f878a922068.wav"
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "kind": "unresolved-quote",
+      "text": "“red pot”",
+      "speaker_id": "#unknown",
+      "gender": "unknown",
+      "profile": "Alloy",
+      "quote_id": "q00012",
+      "source": "unresolved",
+      "confidence": 0.0,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0026_unresolved-quote_alloy_d69e9f268b1fbeaf.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0026_unresolved-quote_alloy_d69e9f268b1fbeaf.wav"
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "kind": "narration",
+      "text": "in his hand, and was about to begin writing his inscription, making, by way of preliminary, an imaginary S in the air.",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0027_narration_alloy_ef82d140cbb7cb8a.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0027_narration_alloy_ef82d140cbb7cb8a.wav"
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "kind": "dialogue",
+      "text": "“Let it alone, will you?”",
+      "speaker_id": "ben",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00013",
+      "source": "after-verb-name",
+      "confidence": 0.98,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0028_dialogue_george_5f33c6fe5941882a.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0028_dialogue_george_5f33c6fe5941882a.wav",
+          "generation_id": "8593b2bc-c8c9-40b9-b76f-ed38dcff8fc8",
+          "duration_seconds": 2.3
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0028_dialogue_daniel_c2b40828690b8cc3.wav",
+          "generation_id": "60b4442f-1e43-4c67-8e8a-1afc8be6ffad",
+          "duration_seconds": 2.1
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0028_dialogue_fable_5f8c516e5c9f4bfb.wav",
+          "generation_id": "8b4eb525-e02a-4b68-afff-798876483edb",
+          "duration_seconds": 2.425
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0028_dialogue_lewis_362132629034fcf0.wav",
+          "generation_id": "79e40403-b1c9-4dae-84be-d6258d4166d6",
+          "duration_seconds": 2.2
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "kind": "narration",
+      "text": "Adam called out, laying down his tools, striding up to Ben, and seizing his right shoulder.",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0029_narration_alloy_6d4f2c37a372d777.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0029_narration_alloy_6d4f2c37a372d777.wav"
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "kind": "dialogue",
+      "text": "“Let it alone, or I'll shake the soul out o' your body.”",
+      "speaker_id": "adam",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00014",
+      "source": "before-name-verb",
+      "confidence": 0.96,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0030_dialogue_george_301b9d49547689c2.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0030_dialogue_george_301b9d49547689c2.wav",
+          "generation_id": "4921dfe8-30c9-4603-b4d2-2a4f27163ea3",
+          "duration_seconds": 4.1
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0030_dialogue_daniel_efdf35e5e74616df.wav",
+          "generation_id": "43e5325d-c3ce-40f2-9c37-70c14c7a80f1",
+          "duration_seconds": 3.575
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0030_dialogue_fable_d6d2128132916763.wav",
+          "generation_id": "df877e6e-0cb3-4d4e-829d-d41059c3633c",
+          "duration_seconds": 3.85
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0030_dialogue_lewis_24016443eff2fa34.wav",
+          "generation_id": "21454775-7996-4390-ae9a-ce42f217dda4",
+          "duration_seconds": 4.2
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "kind": "narration",
+      "text": "Ben shook in Adam's iron grasp, but, like a plucky small man as he was, he didn't mean to give in. With his left hand he snatched the brush from his powerless right, and made a movement as if he would perform the feat of writing with his left. In a moment Adam turned him round, seized his other shoulder, and, pushing him along, pinned him against the wall. But now Dinah spoke.",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0031_narration_alloy_200cdf139a5ba663.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0031_narration_alloy_200cdf139a5ba663.wav"
+        }
+      ]
+    },
+    {
+      "index": 32,
+      "kind": "unresolved-quote",
+      "text": "“Let be, Addy, let be. Ben will be joking. Why, he's i' the right to laugh at me—I canna help laughing at myself.”",
+      "speaker_id": "#unknown",
+      "gender": "unknown",
+      "profile": "Alloy",
+      "quote_id": "q00015",
+      "source": "unresolved",
+      "confidence": 0.0,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0032_unresolved-quote_alloy_9505824f5fa48175.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0032_unresolved-quote_alloy_9505824f5fa48175.wav"
+        }
+      ]
+    },
+    {
+      "index": 33,
+      "kind": "dialogue",
+      "text": "“I shan't loose him till he promises to let the door alone,”",
+      "speaker_id": "adam",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00016",
+      "source": "after-verb-name",
+      "confidence": 0.98,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0033_dialogue_george_b63e0a2e3a0ff59a.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0033_dialogue_george_b63e0a2e3a0ff59a.wav",
+          "generation_id": "bbbcc966-a0f5-4d97-b35f-d8c2fcff8594",
+          "duration_seconds": 4.275
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0033_dialogue_daniel_68fc5cdd051ae23d.wav",
+          "generation_id": "396b1979-7425-4755-ade2-c01246b2a645",
+          "duration_seconds": 3.725
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0033_dialogue_fable_66695eafe05ef0d4.wav",
+          "generation_id": "d8444446-9a68-4683-91f3-39459ce2af89",
+          "duration_seconds": 3.75
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0033_dialogue_lewis_84f14552f39fba1d.wav",
+          "generation_id": "5be93586-bc19-4c30-8434-29d52c221825",
+          "duration_seconds": 4.3
+        }
+      ]
+    },
+    {
+      "index": 34,
+      "kind": "narration",
+      "text": "said Adam.",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0034_narration_alloy_224496a9dcf404e4.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0034_narration_alloy_224496a9dcf404e4.wav"
+        }
+      ]
+    },
+    {
+      "index": 35,
+      "kind": "dialogue",
+      "text": "“Come, Ben, lad,”",
+      "speaker_id": "seth",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00017",
+      "source": "after-verb-name",
+      "confidence": 0.98,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0035_dialogue_george_8c5a0260b591bc56.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0035_dialogue_george_8c5a0260b591bc56.wav",
+          "generation_id": "e49467a3-6c07-4125-982c-0fd863900d14",
+          "duration_seconds": 2.175
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0035_dialogue_daniel_7faffce7600a312f.wav",
+          "generation_id": "31648aba-3872-4319-b147-13da3106efce",
+          "duration_seconds": 1.925
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0035_dialogue_fable_a190655af4d23287.wav",
+          "generation_id": "7b76586e-ec04-4b48-9636-eacddf8f50c5",
+          "duration_seconds": 1.8
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0035_dialogue_lewis_e10b7cb1abb76caf.wav",
+          "generation_id": "5c5e3d9a-5854-4f75-977f-3ceb67124faa",
+          "duration_seconds": 2.1
+        }
+      ]
+    },
+    {
+      "index": 36,
+      "kind": "narration",
+      "text": "said Seth, in a persuasive tone,",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0036_narration_alloy_ad075c97c7a59fb2.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0036_narration_alloy_ad075c97c7a59fb2.wav"
+        }
+      ]
+    },
+    {
+      "index": 37,
+      "kind": "dialogue",
+      "text": "“don't let's have a quarrel about it. You know Adam will have his way. You may's well try to turn a waggon in a narrow lane. Say you'll leave the door alone, and make an end on't.”",
+      "speaker_id": "ben",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00018",
+      "source": "before-name-verb",
+      "confidence": 0.96,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0037_dialogue_george_9c4e8faf658a342f.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0037_dialogue_george_9c4e8faf658a342f.wav",
+          "generation_id": "82b39d38-dc38-4174-9fc7-e9865001caed",
+          "duration_seconds": 11.0
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0037_dialogue_daniel_8b38c30fe66886c4.wav",
+          "generation_id": "5f6a6a34-196a-49ca-bb78-779ae2b46a10",
+          "duration_seconds": 9.0
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0037_dialogue_fable_ce6f65f8033e7ad7.wav",
+          "generation_id": "74ddcb9e-a8d1-485d-b818-0ee226d2fbf3",
+          "duration_seconds": 9.175
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0037_dialogue_lewis_a111e4d2dca40f67.wav",
+          "generation_id": "99030c3d-c170-4fd7-b964-b16069b21b69",
+          "duration_seconds": 11.275
+        }
+      ]
+    },
+    {
+      "index": 38,
+      "kind": "dialogue",
+      "text": "“I binna frighted at Adam,”",
+      "speaker_id": "ben",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00019",
+      "source": "after-verb-name",
+      "confidence": 0.98,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0038_dialogue_george_84cbe9b714356adb.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0038_dialogue_george_84cbe9b714356adb.wav",
+          "generation_id": "185a7208-fce2-46d7-a363-0c783e0e1a78",
+          "duration_seconds": 2.6
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0038_dialogue_daniel_9d3b600f0cc8eeaa.wav",
+          "generation_id": "d60d56b7-2eef-4a9b-860e-a9518a36e736",
+          "duration_seconds": 2.375
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0038_dialogue_fable_b3ea764496127594.wav",
+          "generation_id": "99b6c60b-9623-40b8-9115-54a6ce3a8fc5",
+          "duration_seconds": 2.45
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0038_dialogue_lewis_4f50dce4adb676e4.wav",
+          "generation_id": "ae209959-cce2-45f4-a54a-6fc22e8031c0",
+          "duration_seconds": 2.65
+        }
+      ]
+    },
+    {
+      "index": 39,
+      "kind": "narration",
+      "text": "said Ben,",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0039_narration_alloy_79943c0a064c50c7.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0039_narration_alloy_79943c0a064c50c7.wav"
+        }
+      ]
+    },
+    {
+      "index": 40,
+      "kind": "dialogue",
+      "text": "“but I donna mind sayin' as I'll let 't alone at your askin', Seth.”",
+      "speaker_id": "adam",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00020",
+      "source": "before-name-verb",
+      "confidence": 0.96,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0040_dialogue_george_075d61576c53ac05.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0040_dialogue_george_075d61576c53ac05.wav",
+          "generation_id": "ab6e9cd2-34e6-4015-ae39-c3b9037dc6e3",
+          "duration_seconds": 4.9
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0040_dialogue_daniel_c97c2f773f8aed7f.wav",
+          "generation_id": "2ecef375-85f9-45ff-a1f9-98ead3a231d2",
+          "duration_seconds": 4.3
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0040_dialogue_fable_b34c1b2afac5a010.wav",
+          "generation_id": "cee36770-3b7c-4f25-8691-90ff0a6f21ae",
+          "duration_seconds": 4.6
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0040_dialogue_lewis_9b4010bcfdffc644.wav",
+          "generation_id": "051a5f7f-aeca-419d-bc20-2e5ec9839504",
+          "duration_seconds": 5.15
+        }
+      ]
+    },
+    {
+      "index": 41,
+      "kind": "dialogue",
+      "text": "“Come, that's wise of you, Ben,”",
+      "speaker_id": "adam",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00021",
+      "source": "after-verb-name",
+      "confidence": 0.98,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0041_dialogue_george_86bb7bdfe6259428.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0041_dialogue_george_86bb7bdfe6259428.wav",
+          "generation_id": "34def4f0-8b1c-46e9-bc03-32e9013a208b",
+          "duration_seconds": 2.7
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0041_dialogue_daniel_73ba16e17647dedf.wav",
+          "generation_id": "75a6948b-0279-42e7-916e-db7cc22e3bb1",
+          "duration_seconds": 2.475
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0041_dialogue_fable_37a5cd24d50cadd4.wav",
+          "generation_id": "fe9fc2a9-d37d-431f-8322-1b34603f8956",
+          "duration_seconds": 2.575
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0041_dialogue_lewis_cbf3fdeb0715d864.wav",
+          "generation_id": "29b0a598-f919-4e48-b47e-aaafdc8ff4ba",
+          "duration_seconds": 2.65
+        }
+      ]
+    },
+    {
+      "index": 42,
+      "kind": "narration",
+      "text": "said Adam, laughing and relaxing his grasp. They all returned to their work now; but Wiry Ben, having had the worst in the bodily contest, was bent on retrieving that humiliation by a success in sarcasm.",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0042_narration_alloy_73edacdd9000fbcc.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0042_narration_alloy_73edacdd9000fbcc.wav"
+        }
+      ]
+    },
+    {
+      "index": 43,
+      "kind": "dialogue",
+      "text": "“Which was ye thinkin' on, Seth,”",
+      "speaker_id": "seth",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00022",
+      "source": "same-paragraph",
+      "confidence": 0.91,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0043_dialogue_george_618074a34e115415.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0043_dialogue_george_618074a34e115415.wav",
+          "generation_id": "e163a63e-565c-4031-b59d-f2328b1174d1",
+          "duration_seconds": 2.95
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0043_dialogue_daniel_38fbdad9fe5a1908.wav",
+          "generation_id": "73022e6f-d1e8-41b2-82ed-f9612105653e",
+          "duration_seconds": 2.75
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0043_dialogue_fable_5eb9612f40f37bb6.wav",
+          "generation_id": "1021bc8a-0c8c-4c6e-80a0-89d07216a76e",
+          "duration_seconds": 2.975
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0043_dialogue_lewis_509999ae61232f11.wav",
+          "generation_id": "cf703c9f-0c4a-4b62-afb9-28feb6ea8a69",
+          "duration_seconds": 2.9
+        }
+      ]
+    },
+    {
+      "index": 44,
+      "kind": "narration",
+      "text": "he began—",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0044_narration_alloy_a782611840f52bb6.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0044_narration_alloy_a782611840f52bb6.wav"
+        }
+      ]
+    },
+    {
+      "index": 45,
+      "kind": "dialogue",
+      "text": "“the pretty parson's face or her sarmunt, when ye forgot the panels?”",
+      "speaker_id": "seth",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00023",
+      "source": "before-name-verb",
+      "confidence": 0.96,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0045_dialogue_george_acdf088a84bbf4a9.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0045_dialogue_george_acdf088a84bbf4a9.wav",
+          "generation_id": "2e4f5bd4-e0cc-4160-aee4-3b6feba1fd9c",
+          "duration_seconds": 4.85
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0045_dialogue_daniel_d9ca0e495237e870.wav",
+          "generation_id": "9ed6e0ba-6fe8-4575-9934-fe25528e848f",
+          "duration_seconds": 4.35
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0045_dialogue_fable_09f502451e52674c.wav",
+          "generation_id": "45804ea6-ade8-439a-9ff5-1dc16a158801",
+          "duration_seconds": 4.675
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0045_dialogue_lewis_1b5b18b186545df6.wav",
+          "generation_id": "920ddd77-7725-4681-97b8-64cedf066885",
+          "duration_seconds": 5.125
+        }
+      ]
+    },
+    {
+      "index": 46,
+      "kind": "dialogue",
+      "text": "“Come and hear her, Ben,”",
+      "speaker_id": "seth",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00024",
+      "source": "after-verb-name",
+      "confidence": 0.98,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0046_dialogue_george_f8cb358f7d3a8487.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0046_dialogue_george_f8cb358f7d3a8487.wav",
+          "generation_id": "bff7b3aa-d0da-43f2-a189-37260dc675e1",
+          "duration_seconds": 2.225
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0046_dialogue_daniel_69734652f2585e2b.wav",
+          "generation_id": "ce1e3e54-77fa-40f2-ac9f-8f50712729bb",
+          "duration_seconds": 2.05
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0046_dialogue_fable_d273d4bdbafe15fa.wav",
+          "generation_id": "2d1606fc-25f6-4ba8-b582-566dc188b4c2",
+          "duration_seconds": 2.15
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0046_dialogue_lewis_17ae95e5a842d9ff.wav",
+          "generation_id": "17217854-d321-419b-b262-f7c111579a20",
+          "duration_seconds": 2.15
+        }
+      ]
+    },
+    {
+      "index": 47,
+      "kind": "narration",
+      "text": "said Seth, good-humouredly;",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0047_narration_alloy_7bfca075c3e65bd9.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0047_narration_alloy_7bfca075c3e65bd9.wav"
+        }
+      ]
+    },
+    {
+      "index": 48,
+      "kind": "dialogue",
+      "text": "“she's going to preach on the Green to-night; happen ye'd get something to think on yourself then, instead o' those wicked songs you're so fond on. Ye might get religion, and that 'ud be the best day's earnings y' ever made.”",
+      "speaker_id": "ben",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00025",
+      "source": "before-name-verb",
+      "confidence": 0.96,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0048_dialogue_george_d5de6d244f2863e9.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0048_dialogue_george_d5de6d244f2863e9.wav",
+          "generation_id": "ff91595e-1b70-45c6-9048-04237f6461d1",
+          "duration_seconds": 14.475
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0048_dialogue_daniel_c175c2f1f95ccc29.wav",
+          "generation_id": "3eeb01a5-1485-4c82-95a5-c99a3f6d4b84",
+          "duration_seconds": 12.075
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0048_dialogue_fable_c4630ba155401208.wav",
+          "generation_id": "c3527cbf-02ac-44de-b244-a23f99c184d3",
+          "duration_seconds": 12.15
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0048_dialogue_lewis_b02c3848d59e9992.wav",
+          "generation_id": "fadd54c9-3d19-4499-beb2-1973205fda1c",
+          "duration_seconds": 14.675
+        }
+      ]
+    },
+    {
+      "index": 49,
+      "kind": "unresolved-quote",
+      "text": "“All i' good time for that, Seth; I'll think about that when I'm a-goin' to settle i' life; bachelors doesn't want such heavy earnin's. Happen I shall do the coortin' an' the religion both together, as ye do, Seth; but ye wouldna ha' me get converted an' chop in atween ye an' the pretty preacher, an' carry her aff?”",
+      "speaker_id": "#unknown",
+      "gender": "unknown",
+      "profile": "Alloy",
+      "quote_id": "q00026",
+      "source": "unresolved",
+      "confidence": 0.0,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0049_unresolved-quote_alloy_fa8c820f87eb1649.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0049_unresolved-quote_alloy_fa8c820f87eb1649.wav"
+        }
+      ]
+    },
+    {
+      "index": 50,
+      "kind": "unresolved-quote",
+      "text": "“No fear o' that, Ben; she's neither for you nor for me to win, I doubt. Only you come and hear her, and you won't speak lightly on her again.”",
+      "speaker_id": "#unknown",
+      "gender": "unknown",
+      "profile": "Alloy",
+      "quote_id": "q00027",
+      "source": "unresolved",
+      "confidence": 0.0,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0050_unresolved-quote_alloy_ca6c6fcd089b3448.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0050_unresolved-quote_alloy_ca6c6fcd089b3448.wav"
+        }
+      ]
+    },
+    {
+      "index": 51,
+      "kind": "unresolved-quote",
+      "text": "“Well, I'm half a mind t' ha' a look at her to-night, if there isn't good company at th' Holly Bush. What'll she take for her text? Happen ye can tell me, Seth, if so be as I shouldna come up i' time for't. Will't be—what come ye out for to see? A prophetess? Yea, I say unto you, and more than a prophetess—a uncommon pretty young woman.”",
+      "speaker_id": "#unknown",
+      "gender": "unknown",
+      "profile": "Alloy",
+      "quote_id": "q00028",
+      "source": "unresolved",
+      "confidence": 0.0,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0051_unresolved-quote_alloy_6c2dc93e60ee9351.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0051_unresolved-quote_alloy_6c2dc93e60ee9351.wav"
+        }
+      ]
+    },
+    {
+      "index": 52,
+      "kind": "dialogue",
+      "text": "“Come, Ben,”",
+      "speaker_id": "adam",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00029",
+      "source": "after-verb-name",
+      "confidence": 0.98,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0052_dialogue_george_b2d6b584d7681416.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0052_dialogue_george_b2d6b584d7681416.wav",
+          "generation_id": "d2e719e9-c377-4f41-b5bb-6ac0543bb343",
+          "duration_seconds": 1.65
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0052_dialogue_daniel_a273baea2c2a5605.wav",
+          "generation_id": "84597647-63bb-4e99-9785-39394403f439",
+          "duration_seconds": 1.55
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0052_dialogue_fable_4ec5c0932290fca1.wav",
+          "generation_id": "e4cd0229-719c-43b4-9537-05913fad92a9",
+          "duration_seconds": 1.35
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0052_dialogue_lewis_d56cefbc89e74bd9.wav",
+          "generation_id": "cebe6360-346d-4a43-a1da-b24fa9a199c6",
+          "duration_seconds": 1.775
+        }
+      ]
+    },
+    {
+      "index": 53,
+      "kind": "narration",
+      "text": "said Adam, rather sternly,",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0053_narration_alloy_184c657ccbcea28c.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0053_narration_alloy_184c657ccbcea28c.wav"
+        }
+      ]
+    },
+    {
+      "index": 54,
+      "kind": "dialogue",
+      "text": "“you let the words o' the Bible alone; you're going too far now.”",
+      "speaker_id": "ben",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00030",
+      "source": "before-name-verb",
+      "confidence": 0.96,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0054_dialogue_george_b12ed1f9fa5f220d.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0054_dialogue_george_b12ed1f9fa5f220d.wav",
+          "generation_id": "d8ec7bb2-0ad2-4a48-8e09-6285b74c820f",
+          "duration_seconds": 4.7
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0054_dialogue_daniel_2a06a4b9e04f02d1.wav",
+          "generation_id": "9efbd8b3-a348-4780-9b24-39d21ab91599",
+          "duration_seconds": 4.05
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0054_dialogue_fable_417419dcbec97a05.wav",
+          "generation_id": "d8a0bfcd-ab5d-402c-a372-80bb56235ed9",
+          "duration_seconds": 4.25
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0054_dialogue_lewis_696d7bd990929c5e.wav",
+          "generation_id": "c7baf464-9c8e-480a-948d-2fd7323a4abd",
+          "duration_seconds": 4.725
+        }
+      ]
+    },
+    {
+      "index": 55,
+      "kind": "unresolved-quote",
+      "text": "“What! Are ye a-turnin' roun', Adam? I thought ye war dead again th' women preachin', a while agoo?”",
+      "speaker_id": "#unknown",
+      "gender": "unknown",
+      "profile": "Alloy",
+      "quote_id": "q00031",
+      "source": "unresolved",
+      "confidence": 0.0,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0055_unresolved-quote_alloy_21e721936a8654e6.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0055_unresolved-quote_alloy_21e721936a8654e6.wav"
+        }
+      ]
+    },
+    {
+      "index": 56,
+      "kind": "unresolved-quote",
+      "text": "“Nay, I'm not turnin' noway. I said nought about the women preachin'. I said, You let the Bible alone: you've got a jest-book, han't you, as you're rare and proud on? Keep your dirty fingers to that.”",
+      "speaker_id": "#unknown",
+      "gender": "unknown",
+      "profile": "Alloy",
+      "quote_id": "q00032",
+      "source": "unresolved",
+      "confidence": 0.0,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0056_unresolved-quote_alloy_40756234666a7e52.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0056_unresolved-quote_alloy_40756234666a7e52.wav"
+        }
+      ]
+    },
+    {
+      "index": 57,
+      "kind": "unresolved-quote",
+      "text": "“Why, y' are gettin' as big a saint as Seth. Y' are goin' to th' preachin' to-night, I should think. Ye'll do finely t' lead the singin'. But I don' know what Parson Irwine 'ull say at his gran' favright Adam Bede a-turnin' Methody.”",
+      "speaker_id": "#unknown",
+      "gender": "unknown",
+      "profile": "Alloy",
+      "quote_id": "q00033",
+      "source": "unresolved",
+      "confidence": 0.0,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0057_unresolved-quote_alloy_3b3fb1f7fad51339.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0057_unresolved-quote_alloy_3b3fb1f7fad51339.wav"
+        }
+      ]
+    },
+    {
+      "index": 58,
+      "kind": "unresolved-quote",
+      "text": "“Never do you bother yourself about me, Ben. I'm not a-going to turn Methodist any more nor you are—though it's like enough you'll turn to something worse. Mester Irwine's got more sense nor to meddle wi' people's doing as they like in religion. That's between themselves and God, as he's said to me many a time.”",
+      "speaker_id": "#unknown",
+      "gender": "unknown",
+      "profile": "Alloy",
+      "quote_id": "q00034",
+      "source": "unresolved",
+      "confidence": 0.0,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0058_unresolved-quote_alloy_db2c27f6ce87d34c.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0058_unresolved-quote_alloy_db2c27f6ce87d34c.wav"
+        }
+      ]
+    },
+    {
+      "index": 59,
+      "kind": "unresolved-quote",
+      "text": "“Aye, aye; but he's none so fond o' your dissenters, for all that.”",
+      "speaker_id": "#unknown",
+      "gender": "unknown",
+      "profile": "Alloy",
+      "quote_id": "q00035",
+      "source": "unresolved",
+      "confidence": 0.0,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0059_unresolved-quote_alloy_4683750abd944583.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0059_unresolved-quote_alloy_4683750abd944583.wav"
+        }
+      ]
+    },
+    {
+      "index": 60,
+      "kind": "unresolved-quote",
+      "text": "“Maybe; I'm none so fond o' Josh Tod's thick ale, but I don't hinder you from making a fool o' yourself wi't.”",
+      "speaker_id": "#unknown",
+      "gender": "unknown",
+      "profile": "Alloy",
+      "quote_id": "q00036",
+      "source": "unresolved",
+      "confidence": 0.0,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0060_unresolved-quote_alloy_06a35e2d2853f4cf.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0060_unresolved-quote_alloy_06a35e2d2853f4cf.wav"
+        }
+      ]
+    },
+    {
+      "index": 61,
+      "kind": "narration",
+      "text": "There was a laugh at this thrust of Adam's, but Seth said, very seriously.",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0061_narration_alloy_9e58874f19094273.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0061_narration_alloy_9e58874f19094273.wav"
+        }
+      ]
+    },
+    {
+      "index": 62,
+      "kind": "dialogue",
+      "text": "“Nay, nay, Addy, thee mustna say as anybody's religion's like thick ale. Thee dostna believe but what the dissenters and the Methodists have got the root o' the matter as well as the church folks.”",
+      "speaker_id": "seth",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00037",
+      "source": "before-name-verb",
+      "confidence": 0.96,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0062_dialogue_george_dccbbf25fc3da06c.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0062_dialogue_george_dccbbf25fc3da06c.wav",
+          "generation_id": "f28e2ecc-24bb-4af9-b290-bebd1f0d690b",
+          "duration_seconds": 12.7
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0062_dialogue_daniel_720783df58eb4100.wav",
+          "generation_id": "beb66d1a-6101-4909-b4e9-f2bf872c28c8",
+          "duration_seconds": 10.65
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0062_dialogue_fable_990cf4403817dc11.wav",
+          "generation_id": "e3795297-a99d-4de0-85fc-90df4805a2a8",
+          "duration_seconds": 10.7
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0062_dialogue_lewis_8df55b0a2e204ace.wav",
+          "generation_id": "6b6740c7-7e65-4fd9-aff8-75d2e4a3be6e",
+          "duration_seconds": 12.875
+        }
+      ]
+    },
+    {
+      "index": 63,
+      "kind": "unresolved-quote",
+      "text": "“Nay, Seth, lad; I'm not for laughing at no man's religion. Let 'em follow their consciences, that's all. Only I think it 'ud be better if their consciences 'ud let 'em stay quiet i' the church—there's a deal to be learnt there. And there's such a thing as being oversperitial; we must have something beside Gospel i' this world. Look at the canals, an' th' aqueduc's, an' th' coal-pit engines, and Arkwright's mills there at Cromford; a man must learn summat beside Gospel to make them things, I reckon. But t' hear some o' them preachers, you'd think as a man must be doing nothing all's life but shutting's eyes and looking what's agoing on inside him. I know a man must have the love o' God in his soul, and the Bible's God's word. But what does the Bible say?",
+      "speaker_id": "#unknown",
+      "gender": "unknown",
+      "profile": "Alloy",
+      "quote_id": "q00038",
+      "source": "unresolved",
+      "confidence": 0.0,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0063_unresolved-quote_alloy_e658bbdefd28739e.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0063_unresolved-quote_alloy_e658bbdefd28739e.wav"
+        }
+      ]
+    },
+    {
+      "index": 64,
+      "kind": "unresolved-quote",
+      "text": "Why, it says as God put his sperrit into the workman as built the tabernacle, to make him do all the carved work and things as wanted a nice hand. And this is my way o' looking at it: there's the sperrit o' God in all things and all times—weekday as well as Sunday—and i' the great works and inventions, and i' the figuring and the mechanics. And God helps us with our headpieces and our hands as well as with our souls; and if a man does bits o' jobs out o' working hours—builds a oven for 's wife to save her from going to the bakehouse, or scrats at his bit o' garden and makes two potatoes grow istead o' one, he's doin' more good, and he's just as near to God, as if he was running after some preacher and a-praying and a-groaning.”",
+      "speaker_id": "#unknown",
+      "gender": "unknown",
+      "profile": "Alloy",
+      "quote_id": "q00038",
+      "source": "unresolved",
+      "confidence": 0.0,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0064_unresolved-quote_alloy_9047d95b135d7515.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0064_unresolved-quote_alloy_9047d95b135d7515.wav"
+        }
+      ]
+    },
+    {
+      "index": 65,
+      "kind": "dialogue",
+      "text": "“Well done, Adam!”",
+      "speaker_id": "jim",
+      "gender": "unknown",
+      "profile": "Alloy",
+      "quote_id": "q00039",
+      "source": "after-verb-name",
+      "confidence": 0.98,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0065_dialogue_alloy_7ac7d5865a848d81.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0065_dialogue_alloy_7ac7d5865a848d81.wav"
+        }
+      ]
+    },
+    {
+      "index": 66,
+      "kind": "narration",
+      "text": "said Sandy Jim, who had paused from his planing to shift his planks while Adam was speaking;",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0066_narration_alloy_09cf7d0991a5ffe8.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0066_narration_alloy_09cf7d0991a5ffe8.wav"
+        }
+      ]
+    },
+    {
+      "index": 67,
+      "kind": "dialogue",
+      "text": "“that's the best sarmunt I've heared this long while. By th' same token, my wife's been a-plaguin' on me to build her a oven this twelvemont.”",
+      "speaker_id": "adam",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00040",
+      "source": "before-name-verb",
+      "confidence": 0.96,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0067_dialogue_george_ee1910d186fd6ca4.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0067_dialogue_george_ee1910d186fd6ca4.wav",
+          "generation_id": "ab0f45d6-2cc0-45e4-abb6-b0357fd706ae",
+          "duration_seconds": 9.625
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0067_dialogue_daniel_d5610d38c38c9515.wav",
+          "generation_id": "84530ed9-595d-4644-a05b-5e3df3382ff8",
+          "duration_seconds": 8.125
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0067_dialogue_fable_2558a5d7b1a3d624.wav",
+          "generation_id": "94147787-dd06-4931-a063-44f93434a0ed",
+          "duration_seconds": 8.5
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0067_dialogue_lewis_fe163b4f623f61cd.wav",
+          "generation_id": "c8d13f37-f100-43ac-bd96-366b8c8f4a04",
+          "duration_seconds": 10.15
+        }
+      ]
+    },
+    {
+      "index": 68,
+      "kind": "dialogue",
+      "text": "“There's reason in what thee say'st, Adam,”",
+      "speaker_id": "seth",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00041",
+      "source": "after-verb-name",
+      "confidence": 0.98,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0068_dialogue_george_41b8a59106daea48.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0068_dialogue_george_41b8a59106daea48.wav",
+          "generation_id": "822e18de-d1dd-4c48-a6ac-da2c9126a4c7",
+          "duration_seconds": 3.6
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0068_dialogue_daniel_2afc97259af8470f.wav",
+          "generation_id": "93d9e699-18be-45bb-a5ef-b99af5779bb9",
+          "duration_seconds": 3.1
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0068_dialogue_fable_54bf04172034306e.wav",
+          "generation_id": "2a646023-f703-44ac-b822-6b6c5e4936b5",
+          "duration_seconds": 3.225
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0068_dialogue_lewis_7fc8a2da9511bd2c.wav",
+          "generation_id": "6999a226-329a-4416-b0c9-0fc277ee6cff",
+          "duration_seconds": 3.55
+        }
+      ]
+    },
+    {
+      "index": 69,
+      "kind": "narration",
+      "text": "observed Seth, gravely.",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0069_narration_alloy_545bd4e580077641.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0069_narration_alloy_545bd4e580077641.wav"
+        }
+      ]
+    },
+    {
+      "index": 70,
+      "kind": "dialogue",
+      "text": "“But thee know'st thyself as it's hearing the preachers thee find'st so much fault with has turned many an idle fellow into an industrious un. It's the preacher as empties th' alehouse; and if a man gets religion, he'll do his work none the worse for that.”",
+      "speaker_id": "adam",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00042",
+      "source": "before-name-verb",
+      "confidence": 0.96,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0070_dialogue_george_b8a9217a82e95fb0.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0070_dialogue_george_b8a9217a82e95fb0.wav",
+          "generation_id": "1e4ca55a-d2c4-4a98-9fee-d33cd64e5afe",
+          "duration_seconds": 17.075
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0070_dialogue_daniel_44ad8257b16c32cf.wav",
+          "generation_id": "a1b784bb-2b8e-4a0b-b980-6b9eaf8ca865",
+          "duration_seconds": 14.55
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0070_dialogue_fable_0d79035938f275b4.wav",
+          "generation_id": "24d4cbc9-47a0-4e86-8859-1e6c85f28a16",
+          "duration_seconds": 14.35
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0070_dialogue_lewis_5ad8aa7e4b5a17d7.wav",
+          "generation_id": "8e64e189-8e85-46b7-b0a8-be0c83dbcae1",
+          "duration_seconds": 17.2
+        }
+      ]
+    },
+    {
+      "index": 71,
+      "kind": "dialogue",
+      "text": "“On'y he'll lave the panels out o' th' doors sometimes, eh, Seth?”",
+      "speaker_id": "wiry-ben",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00043",
+      "source": "after-verb-name",
+      "confidence": 0.98,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0071_dialogue_george_2c0c4a2d763a777b.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0071_dialogue_george_2c0c4a2d763a777b.wav",
+          "generation_id": "a5d03c1d-8386-4d44-bf88-9bff36655ab0",
+          "duration_seconds": 5.075
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0071_dialogue_daniel_2ec3a936584f2c6d.wav",
+          "generation_id": "7f5f93b6-3b28-4bf2-ac6b-ca5cbb02e377",
+          "duration_seconds": 4.4
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0071_dialogue_fable_460abc330f06c4a8.wav",
+          "generation_id": "749ebacc-e21a-4788-bf72-ac9d0434a71f",
+          "duration_seconds": 4.85
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0071_dialogue_lewis_3f8b4c8ba8c4258c.wav",
+          "generation_id": "b1db655c-43a4-46c8-bf0b-f3a1fcaacdcb",
+          "duration_seconds": 5.3
+        }
+      ]
+    },
+    {
+      "index": 72,
+      "kind": "narration",
+      "text": "said Wiry Ben.",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0072_narration_alloy_a5d6e90a4b2c2861.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0072_narration_alloy_a5d6e90a4b2c2861.wav"
+        }
+      ]
+    },
+    {
+      "index": 73,
+      "kind": "dialogue",
+      "text": "“Ah, Ben, you've got a joke again' me as 'll last you your life. But it isna religion as was i' fault there; it was Seth Bede , as was allays a wool-gathering chap, and religion hasna cured him, the more's the pity.”",
+      "speaker_id": "wiry-ben",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00044",
+      "source": "neighbor-continuation",
+      "confidence": 0.78,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0073_dialogue_george_932bc3570cc4d6c5.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0073_dialogue_george_932bc3570cc4d6c5.wav",
+          "generation_id": "266b64a3-394d-4ae5-a126-34e5ea6fa777",
+          "duration_seconds": 14.125
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0073_dialogue_daniel_a6e1a62d10c0bae7.wav",
+          "generation_id": "810d6a83-5876-4c6e-813c-34c74d6027be",
+          "duration_seconds": 11.95
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0073_dialogue_fable_d4cba84ecf3aa2b5.wav",
+          "generation_id": "c551a495-7c3c-4d68-94d4-eecc5576cc63",
+          "duration_seconds": 12.175
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0073_dialogue_lewis_9b0d428b5814ae4d.wav",
+          "generation_id": "beee9a3e-1403-4246-9300-d503da783b25",
+          "duration_seconds": 14.75
+        }
+      ]
+    },
+    {
+      "index": 74,
+      "kind": "dialogue",
+      "text": "“Ne'er heed me, Seth,”",
+      "speaker_id": "wiry-ben",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00045",
+      "source": "after-verb-name",
+      "confidence": 0.98,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0074_dialogue_george_33fcd3740626b5fe.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0074_dialogue_george_33fcd3740626b5fe.wav",
+          "generation_id": "001455a1-dd6b-473b-9a5d-c617ae604e8e",
+          "duration_seconds": 2.2
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0074_dialogue_daniel_593967762c993d39.wav",
+          "generation_id": "247210a3-3889-4cb8-9064-3df84d649f40",
+          "duration_seconds": 2.125
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0074_dialogue_fable_04074b0aa2b579a6.wav",
+          "generation_id": "b5bc1dd6-244a-444c-833c-41491d64061f",
+          "duration_seconds": 2.25
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0074_dialogue_lewis_6bd5115ddf94f48f.wav",
+          "generation_id": "2348fce5-ed51-4525-9b64-1099fe6e6bed",
+          "duration_seconds": 2.2
+        }
+      ]
+    },
+    {
+      "index": 75,
+      "kind": "narration",
+      "text": "said Wiry Ben,",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0075_narration_alloy_f3bf6b749257c932.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0075_narration_alloy_f3bf6b749257c932.wav"
+        }
+      ]
+    },
+    {
+      "index": 76,
+      "kind": "dialogue",
+      "text": "“y' are a down-right good-hearted chap, panels or no panels; an' ye donna set up your bristles at every bit o' fun, like some o' your kin, as is mayhap cliverer.”",
+      "speaker_id": "seth",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00046",
+      "source": "before-name-verb",
+      "confidence": 0.96,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0076_dialogue_george_fa6c5242ce195a4e.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0076_dialogue_george_fa6c5242ce195a4e.wav",
+          "generation_id": "3ab520db-ee1d-48f9-bf85-87e46b9c2a06",
+          "duration_seconds": 11.2
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0076_dialogue_daniel_1eb13446ccf70b35.wav",
+          "generation_id": "5ec172c7-e7e9-4802-8e3d-9395e2d6965f",
+          "duration_seconds": 9.375
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0076_dialogue_fable_779b0308714711c3.wav",
+          "generation_id": "f8e5473e-b708-47ef-ac19-24fea71bc757",
+          "duration_seconds": 9.725
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0076_dialogue_lewis_f8254eb5b28f711b.wav",
+          "generation_id": "2c0f6470-1761-45fa-bdac-39978b5f5014",
+          "duration_seconds": 11.425
+        }
+      ]
+    },
+    {
+      "index": 77,
+      "kind": "dialogue",
+      "text": "“Seth, lad,”",
+      "speaker_id": "adam",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00047",
+      "source": "after-verb-name",
+      "confidence": 0.98,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0077_dialogue_george_1a3681f57b8fdd70.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0077_dialogue_george_1a3681f57b8fdd70.wav",
+          "generation_id": "8a9cfb9e-1d6d-4344-80d7-8363844e99ad",
+          "duration_seconds": 1.7
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0077_dialogue_daniel_cfb2575b171723f8.wav",
+          "generation_id": "398a3294-347c-414b-8603-b0679dff027e",
+          "duration_seconds": 1.525
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0077_dialogue_fable_d9ff5ffea7019ecd.wav",
+          "generation_id": "c83f4053-8fcc-4519-8081-262a05f862ae",
+          "duration_seconds": 1.45
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0077_dialogue_lewis_0b9f45419786e25f.wav",
+          "generation_id": "b8f4b47b-790d-41b8-b58d-6c7cf09eb748",
+          "duration_seconds": 1.775
+        }
+      ]
+    },
+    {
+      "index": 78,
+      "kind": "narration",
+      "text": "said Adam, taking no notice of the sarcasm against himself,",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0078_narration_alloy_67b0f2228a09ad17.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0078_narration_alloy_67b0f2228a09ad17.wav"
+        }
+      ]
+    },
+    {
+      "index": 79,
+      "kind": "dialogue",
+      "text": "“thee mustna take me unkind. I wasna driving at thee in what I said just now. Some 's got one way o' looking at things and some 's got another.”",
+      "speaker_id": "seth",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00048",
+      "source": "before-name-verb",
+      "confidence": 0.96,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0079_dialogue_george_5059e555f48dfd8a.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0079_dialogue_george_5059e555f48dfd8a.wav",
+          "generation_id": "49e3d49d-53cc-40ce-91a7-b4c2df73664e",
+          "duration_seconds": 9.4
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0079_dialogue_daniel_da3ff2aef6c0438a.wav",
+          "generation_id": "01c96384-beb4-4a04-bb26-900dffbc8de8",
+          "duration_seconds": 8.15
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0079_dialogue_fable_d99649077a2dc920.wav",
+          "generation_id": "4e5266a7-f498-4f96-a6e8-430098e3dd9c",
+          "duration_seconds": 8.225
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0079_dialogue_lewis_d29249fe77de8014.wav",
+          "generation_id": "3500aa33-0a94-4356-aed8-aa962d86f7d6",
+          "duration_seconds": 9.9
+        }
+      ]
+    },
+    {
+      "index": 80,
+      "kind": "dialogue",
+      "text": "“Nay, nay, Addy, thee mean'st me no unkindness,”",
+      "speaker_id": "seth",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00049",
+      "source": "after-verb-name",
+      "confidence": 0.98,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0080_dialogue_george_44c76558ecd9a8bb.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0080_dialogue_george_44c76558ecd9a8bb.wav",
+          "generation_id": "eaeb0a9b-a4e7-41d6-ac77-479f4a19f815",
+          "duration_seconds": 3.875
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0080_dialogue_daniel_5ffa633b5a23aa28.wav",
+          "generation_id": "ae703776-dd49-4cbe-ba25-79153a54e707",
+          "duration_seconds": 3.45
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0080_dialogue_fable_f40262f5321a258c.wav",
+          "generation_id": "ef705082-035d-40b6-843b-3d6d05bb0d2f",
+          "duration_seconds": 3.6
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0080_dialogue_lewis_bad77d7503b64d06.wav",
+          "generation_id": "46d665cd-bd63-48e7-814b-4eb990f333ac",
+          "duration_seconds": 3.875
+        }
+      ]
+    },
+    {
+      "index": 81,
+      "kind": "narration",
+      "text": "said Seth,",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0081_narration_alloy_f68ea7f8f2d4808b.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0081_narration_alloy_f68ea7f8f2d4808b.wav"
+        }
+      ]
+    },
+    {
+      "index": 82,
+      "kind": "dialogue",
+      "text": "“I know that well enough. Thee't like thy dog Gyp—thee bark'st at me sometimes, but thee allays lick'st my hand after.”",
+      "speaker_id": "addy",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00050",
+      "source": "before-name-verb",
+      "confidence": 0.96,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0082_dialogue_george_f97d65068aeac7a1.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0082_dialogue_george_f97d65068aeac7a1.wav",
+          "generation_id": "60441afa-97c1-4a87-9193-f27fecfcea92",
+          "duration_seconds": 8.125
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0082_dialogue_daniel_19701a07637955cd.wav",
+          "generation_id": "ea6c6844-d82c-4611-87ab-8a92d25cd648",
+          "duration_seconds": 6.7
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0082_dialogue_fable_e7d9c84e8520ec2a.wav",
+          "generation_id": "e2089dd7-2531-41c7-b6ba-1e8e4422cba6",
+          "duration_seconds": 7.075
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0082_dialogue_lewis_7d2998680427a311.wav",
+          "generation_id": "883411bd-b1b0-4a19-baa6-24274047db34",
+          "duration_seconds": 8.45
+        }
+      ]
+    },
+    {
+      "index": 83,
+      "kind": "narration",
+      "text": "All hands worked on in silence for some minutes, until the church clock began to strike six. Before the first stroke had died away, Sandy Jim had loosed his plane and was reaching his jacket; Wiry Ben had left a screw half driven in, and thrown his screwdriver into his tool-basket; Mum Taft, who, true to his name, had kept silence throughout the previous conversation, had flung down his hammer as he was in the act of lifting it; and Seth, too, had straightened his back, and was putting out his hand towards his paper cap. Adam alone had gone on with his work as if nothing had happened. But observing the cessation of the tools, he looked up, and said, in a tone of indignation,",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0083_narration_alloy_99b4a9b4cad66bc3.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0083_narration_alloy_99b4a9b4cad66bc3.wav"
+        }
+      ]
+    },
+    {
+      "index": 84,
+      "kind": "dialogue",
+      "text": "“Look there, now! I can't abide to see men throw away their tools i' that way, the minute the clock begins to strike, as if they took no pleasure i' their work and was afraid o' doing a stroke too much.”",
+      "speaker_id": "adam",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00051",
+      "source": "before-name-verb",
+      "confidence": 0.96,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0084_dialogue_george_78bb0c2109c36194.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0084_dialogue_george_78bb0c2109c36194.wav",
+          "generation_id": "7761f53c-c76a-436d-bfa6-484334d02172",
+          "duration_seconds": 12.85
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0084_dialogue_daniel_005f95151e7b8873.wav",
+          "generation_id": "f1287ee1-1fb6-4417-974b-ba34520952fe",
+          "duration_seconds": 10.575
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0084_dialogue_fable_8dac1d94bb10e097.wav",
+          "generation_id": "33e44691-d9d6-432f-9a55-ce3c778e4879",
+          "duration_seconds": 10.625
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0084_dialogue_lewis_a6f12d53a65090f7.wav",
+          "generation_id": "89eb3496-60a2-4f2d-9fe3-00de31bb2f9e",
+          "duration_seconds": 12.875
+        }
+      ]
+    },
+    {
+      "index": 85,
+      "kind": "narration",
+      "text": "Seth looked a little conscious, and began to be slower in his preparations for going, but Mum Taft broke silence, and said,",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0085_narration_alloy_deb5d91b0d38ab92.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0085_narration_alloy_deb5d91b0d38ab92.wav"
+        }
+      ]
+    },
+    {
+      "index": 86,
+      "kind": "dialogue",
+      "text": "“Aye, aye, Adam lad, ye talk like a young un. When y' are six-an'-forty like me, istid o' six-an'-twenty, ye wonna be so flush o' workin' for nought.”",
+      "speaker_id": "seth",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00052",
+      "source": "before-name-verb",
+      "confidence": 0.96,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0086_dialogue_george_a7c4f131dbacb2c3.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0086_dialogue_george_a7c4f131dbacb2c3.wav",
+          "generation_id": "31b11685-2f7c-4866-8ce8-c49e028c45c6",
+          "duration_seconds": 10.125
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0086_dialogue_daniel_f517712648c3fc3c.wav",
+          "generation_id": "6c02310b-d817-42c0-bce5-16fb35f6316c",
+          "duration_seconds": 8.675
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0086_dialogue_fable_72d843ad8e7080bf.wav",
+          "generation_id": "cabf2ed2-19df-47d1-972c-44b2fcdc48f5",
+          "duration_seconds": 8.925
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0086_dialogue_lewis_cf97c556c766da7a.wav",
+          "generation_id": "41718b1e-1bee-48a3-b867-0af56c770a55",
+          "duration_seconds": 10.45
+        }
+      ]
+    },
+    {
+      "index": 87,
+      "kind": "dialogue",
+      "text": "“Nonsense,”",
+      "speaker_id": "adam",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00053",
+      "source": "after-verb-name",
+      "confidence": 0.98,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0087_dialogue_george_383f0b0c6c984ca1.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0087_dialogue_george_383f0b0c6c984ca1.wav",
+          "generation_id": "10498d25-cfa5-4612-9300-42e3b127b3bd",
+          "duration_seconds": 1.625
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0087_dialogue_daniel_f642ae9021fc7bfa.wav",
+          "generation_id": "6c6920bf-d196-44d9-8ecd-2fa0c5022259",
+          "duration_seconds": 1.475
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0087_dialogue_fable_a83fdc66de0d74bd.wav",
+          "generation_id": "226d038f-4c42-4ed2-b0ac-71cc20ea1e5a",
+          "duration_seconds": 1.35
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0087_dialogue_lewis_d6e4dd588b36bd52.wav",
+          "generation_id": "7c608bc1-4b14-4a34-a8aa-d4f129cb31f8",
+          "duration_seconds": 1.75
+        }
+      ]
+    },
+    {
+      "index": 88,
+      "kind": "narration",
+      "text": "said Adam, still wrathful;",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0088_narration_alloy_c8fd75309d95f540.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0088_narration_alloy_c8fd75309d95f540.wav"
+        }
+      ]
+    },
+    {
+      "index": 89,
+      "kind": "dialogue",
+      "text": "“what's age got to do with it, I wonder? Ye arena getting stiff yet, I reckon. I hate to see a man's arms drop down as if he was shot, before the clock's fairly struck, just as if he'd never a bit o' pride and delight in 's work. The very grindstone 'ull go on turning a bit after you loose it.”",
+      "speaker_id": "adam",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00054",
+      "source": "before-verb-name",
+      "confidence": 0.94,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0089_dialogue_george_a774219e5d3ed5ef.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0089_dialogue_george_a774219e5d3ed5ef.wav",
+          "generation_id": "fdf5d2f4-3bea-4e86-9391-7d41f6569c0c",
+          "duration_seconds": 18.1
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0089_dialogue_daniel_22a8be41cc0436c6.wav",
+          "generation_id": "caa2fbb4-4a1f-4f63-9c93-7448fe9249f9",
+          "duration_seconds": 15.15
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0089_dialogue_fable_e9f88775584bc5b6.wav",
+          "generation_id": "95d5b54f-e98d-49b8-8839-3c0cabab4bae",
+          "duration_seconds": 15.1
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0089_dialogue_lewis_30fc48991eec2720.wav",
+          "generation_id": "afbf619a-d091-4430-9a6e-8f1110dfe667",
+          "duration_seconds": 18.6
+        }
+      ]
+    },
+    {
+      "index": 90,
+      "kind": "dialogue",
+      "text": "“Bodderation, Adam!”",
+      "speaker_id": "wiry-ben",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00055",
+      "source": "after-verb-name",
+      "confidence": 0.98,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0090_dialogue_george_b258634efb055067.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0090_dialogue_george_b258634efb055067.wav",
+          "generation_id": "8b6ff27c-3175-43b7-9cbb-d46844f48c0b",
+          "duration_seconds": 2.425
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0090_dialogue_daniel_93016177ce1998dd.wav",
+          "generation_id": "e0cea12f-928b-43b9-bf70-183172eba797",
+          "duration_seconds": 2.225
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0090_dialogue_fable_496558deddb52c2f.wav",
+          "generation_id": "2ba28629-1b2a-442f-9b08-9fdabb9d0cae",
+          "duration_seconds": 2.4
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0090_dialogue_lewis_a228fa38026f566a.wav",
+          "generation_id": "8bcbf7fb-505e-4fb1-a1ac-475195c50d5b",
+          "duration_seconds": 2.4
+        }
+      ]
+    },
+    {
+      "index": 91,
+      "kind": "narration",
+      "text": "exclaimed Wiry Ben;",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0091_narration_alloy_c3712c92e3c1b8e3.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0091_narration_alloy_c3712c92e3c1b8e3.wav"
+        }
+      ]
+    },
+    {
+      "index": 92,
+      "kind": "dialogue",
+      "text": "“lave a chap aloon, will 'ee? Ye war afinding faut wi' preachers a while agoo—y' are fond enough o' preachin' yoursen. Ye may like work better nor play, but I like play better nor work; that'll 'commodate ye—it laves ye th' more to do.”",
+      "speaker_id": "adam",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00056",
+      "source": "before-name-verb",
+      "confidence": 0.96,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0092_dialogue_george_0b64d92edc4ebcb1.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0092_dialogue_george_0b64d92edc4ebcb1.wav",
+          "generation_id": "3a11ee95-c6a9-483a-87d9-e1d004c791e2",
+          "duration_seconds": 15.05
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0092_dialogue_daniel_63475e03d34e900b.wav",
+          "generation_id": "2a2311b2-a8de-465d-a458-99faff34a9b0",
+          "duration_seconds": 12.9
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0092_dialogue_fable_2a3eeb300a7f53a8.wav",
+          "generation_id": "cd90797d-4f59-421d-955e-d10dd0f44227",
+          "duration_seconds": 12.9
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0092_dialogue_lewis_3983e701a4b86207.wav",
+          "generation_id": "e296d066-4eab-4456-9ea3-ab83e761ea61",
+          "duration_seconds": 16.1
+        }
+      ]
+    },
+    {
+      "index": 93,
+      "kind": "narration",
+      "text": "With this exit speech, which he considered effective,Wiry Ben shouldered his basket and left the workshop, quickly followed by Mum Taft and Sandy Jim. Seth lingered, and looked wistfully at Adam, as if he expected him to say something.",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0093_narration_alloy_1d505e4eccb78522.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0093_narration_alloy_1d505e4eccb78522.wav"
+        }
+      ]
+    },
+    {
+      "index": 94,
+      "kind": "dialogue",
+      "text": "“Shalt go home before thee go'st to the preaching?”",
+      "speaker_id": "adam",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00057",
+      "source": "after-name-verb",
+      "confidence": 0.97,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0094_dialogue_george_746ef9122f04b98a.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0094_dialogue_george_746ef9122f04b98a.wav",
+          "generation_id": "2b7d3764-bc97-4af6-b200-51e3bc2c09a2",
+          "duration_seconds": 3.825
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0094_dialogue_daniel_3abde4027c99cba3.wav",
+          "generation_id": "7a8c18b6-cb20-43a5-aa21-b3b356a0cb2b",
+          "duration_seconds": 3.25
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0094_dialogue_fable_a79fd183e4943856.wav",
+          "generation_id": "e3edec47-072e-4ae1-9e00-b395d2313b56",
+          "duration_seconds": 3.475
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0094_dialogue_lewis_9fca7f1810d3faa6.wav",
+          "generation_id": "3bbd680a-2415-4d42-aaf7-12216f21af28",
+          "duration_seconds": 3.75
+        }
+      ]
+    },
+    {
+      "index": 95,
+      "kind": "narration",
+      "text": "Adam asked, looking up.",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0095_narration_alloy_b34282557d3385b9.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0095_narration_alloy_b34282557d3385b9.wav"
+        }
+      ]
+    },
+    {
+      "index": 96,
+      "kind": "dialogue",
+      "text": "“Nay; I've got my hat and things at Will Maskery's. I shan't be home before going for ten. I'll happen see Dinah Morris safe home, if she's willing. There's nobody comes with her from Poyser's, thee know'st.”",
+      "speaker_id": "adam",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00058",
+      "source": "neighbor-continuation",
+      "confidence": 0.78,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0096_dialogue_george_f3da10de78df63a1.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0096_dialogue_george_f3da10de78df63a1.wav",
+          "generation_id": "900e9ab4-a912-4ab5-b3b3-a9016f529c2f",
+          "duration_seconds": 12.8
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0096_dialogue_daniel_c39d2cbe05d1ebff.wav",
+          "generation_id": "294348af-6eb1-4606-ad6a-49fbf98a6f5d",
+          "duration_seconds": 10.775
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0096_dialogue_fable_bc4b5ab086519fa2.wav",
+          "generation_id": "0693a5e1-19ff-4ccf-8734-4f6b8b2ab117",
+          "duration_seconds": 10.925
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0096_dialogue_lewis_a153be5d1ceebc56.wav",
+          "generation_id": "01439386-b171-4e49-862b-423220020edd",
+          "duration_seconds": 13.0
+        }
+      ]
+    },
+    {
+      "index": 97,
+      "kind": "dialogue",
+      "text": "“Then I'll tell mother not to look for thee,”",
+      "speaker_id": "adam",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00059",
+      "source": "after-verb-name",
+      "confidence": 0.98,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0097_dialogue_george_91585a63cd110552.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0097_dialogue_george_91585a63cd110552.wav",
+          "generation_id": "2fac4b3d-af5c-4e01-8190-73370f51e52a",
+          "duration_seconds": 3.2
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0097_dialogue_daniel_8b7357863e13dff4.wav",
+          "generation_id": "9534d213-c1d7-4c15-a4fc-af1134800850",
+          "duration_seconds": 2.875
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0097_dialogue_fable_0afbea3ce2c7993e.wav",
+          "generation_id": "8bb343bf-e04e-40da-97e6-fbde5a518ec3",
+          "duration_seconds": 2.9
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0097_dialogue_lewis_480b164a8607d3ba.wav",
+          "generation_id": "89442d35-a8bd-4c3d-a39c-27fe7176562c",
+          "duration_seconds": 3.025
+        }
+      ]
+    },
+    {
+      "index": 98,
+      "kind": "narration",
+      "text": "said Adam.",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0098_narration_alloy_224496a9dcf404e4.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0098_narration_alloy_224496a9dcf404e4.wav"
+        }
+      ]
+    },
+    {
+      "index": 99,
+      "kind": "dialogue",
+      "text": "“Thee artna going to Poyser's thyself to-night?”",
+      "speaker_id": "seth",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00060",
+      "source": "after-verb-name",
+      "confidence": 0.98,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0099_dialogue_george_ce742d0d97f39f08.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0099_dialogue_george_ce742d0d97f39f08.wav",
+          "generation_id": "a2359df6-0465-4dbb-ab04-2fc07ca0b0f8",
+          "duration_seconds": 3.5
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0099_dialogue_daniel_007d75fe999d39d6.wav",
+          "generation_id": "537279bc-a432-42d7-ad2c-4ca180b33212",
+          "duration_seconds": 3.125
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0099_dialogue_fable_451b9a3d524f80b1.wav",
+          "generation_id": "0eef3b9a-46a0-412f-a622-ed5e67b36250",
+          "duration_seconds": 3.275
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0099_dialogue_lewis_88bd41cd6f11cf2f.wav",
+          "generation_id": "3b0ebc26-0f3d-4f13-98bb-5d26a741ae3c",
+          "duration_seconds": 3.425
+        }
+      ]
+    },
+    {
+      "index": 100,
+      "kind": "narration",
+      "text": "said Seth rather timidly, as he turned to leave the workshop.",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0100_narration_alloy_75f20ce29ad44249.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0100_narration_alloy_75f20ce29ad44249.wav"
+        }
+      ]
+    },
+    {
+      "index": 101,
+      "kind": "unresolved-quote",
+      "text": "“Nay, I'm going to th' school.”",
+      "speaker_id": "#unknown",
+      "gender": "unknown",
+      "profile": "Alloy",
+      "quote_id": "q00061",
+      "source": "unresolved",
+      "confidence": 0.0,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0101_unresolved-quote_alloy_450cb5167556ad7b.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0101_unresolved-quote_alloy_450cb5167556ad7b.wav"
+        }
+      ]
+    },
+    {
+      "index": 102,
+      "kind": "narration",
+      "text": "Hitherto Gyp had kept his comfortable bed, only lifting up his head and watching Adam more closely as he noticed the other workmen departing. But no sooner did Adam put his ruler in his pocket, and begin to twist his apron round his waist, than Gyp ran forward and looked up in his master's face with patient expectation. If Gyp had had a tail he would doubtless have wagged it, but being destitute of that vehicle for his emotions, he was like many other worthy personages, destined to appear more phlegmatic than nature had made him.",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0102_narration_alloy_be351314b6871519.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0102_narration_alloy_be351314b6871519.wav"
+        }
+      ]
+    },
+    {
+      "index": 103,
+      "kind": "dialogue",
+      "text": "“What! Art ready for the basket, eh, Gyp?”",
+      "speaker_id": "adam",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00062",
+      "source": "after-verb-name",
+      "confidence": 0.98,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0103_dialogue_george_29045db5cb84940f.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0103_dialogue_george_29045db5cb84940f.wav",
+          "generation_id": "c3f64b7c-18a6-4b49-968f-9923782013ef",
+          "duration_seconds": 3.225
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0103_dialogue_daniel_37235346608a14a8.wav",
+          "generation_id": "cb37b849-4484-413c-acfe-dc901fabee4e",
+          "duration_seconds": 2.925
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0103_dialogue_fable_64fac422ef08cf92.wav",
+          "generation_id": "646b511c-399b-43c3-b086-fe160e98c1a1",
+          "duration_seconds": 3.2
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0103_dialogue_lewis_659fc715d4f3c531.wav",
+          "generation_id": "3fe1fd22-1566-4881-b0d8-cfab2e1d8b0a",
+          "duration_seconds": 3.425
+        }
+      ]
+    },
+    {
+      "index": 104,
+      "kind": "narration",
+      "text": "said Adam, with the same gentle modulation of voice as when he spoke to Seth. Gyp jumped and gave a short bark, as much as to say,",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0104_narration_alloy_223be88d542d33d1.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0104_narration_alloy_223be88d542d33d1.wav"
+        }
+      ]
+    },
+    {
+      "index": 105,
+      "kind": "unresolved-quote",
+      "text": "“Of course.”",
+      "speaker_id": "#unknown",
+      "gender": "unknown",
+      "profile": "Alloy",
+      "quote_id": "q00063",
+      "source": "unresolved",
+      "confidence": 0.0,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0105_unresolved-quote_alloy_123493ce5e77a960.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0105_unresolved-quote_alloy_123493ce5e77a960.wav"
+        }
+      ]
+    },
+    {
+      "index": 106,
+      "kind": "narration",
+      "text": "Poor fellow, he had not a great range of expression. The basket was the one which on workdays held Adam's and Seth's dinner; and no official, walking in procession, could look more resolutely unconscious of all acquaintances than Gyp with his basket, trotting at his master's heels.",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0106_narration_alloy_516658bc4ade4b2d.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0106_narration_alloy_516658bc4ade4b2d.wav"
+        }
+      ]
+    },
+    {
+      "index": 107,
+      "kind": "narration",
+      "text": "On leaving the workshop Adam locked the door, took the key out, and carried it to the house on the other side of the woodyard. It was a low house, with smooth grey thatch and buff walls, looking pleasant and mellow in the evening light. The leaded windows were bright and speckless, and the door-stone was as clean as a white boulder at ebb tide. On the door-stone stood a clean old woman, in a dark-striped linen gown, a red kerchief, and a linen cap, talking to some speckled fowls which appeared to have been drawn towards her by an illusory expectation of cold potatoes or barley. The old woman's sight seemed to be dim, for she did not recognize Adam till he said,",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0107_narration_alloy_c7bd3f7944228213.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0107_narration_alloy_c7bd3f7944228213.wav"
+        }
+      ]
+    },
+    {
+      "index": 108,
+      "kind": "dialogue",
+      "text": "“Here's the key, Dolly; lay it down for me in the house, will you?”",
+      "speaker_id": "adam",
+      "gender": "male",
+      "profile": "George",
+      "quote_id": "q00064",
+      "source": "before-name-verb",
+      "confidence": 0.96,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0108_dialogue_george_3e70fffcfea8e069.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "George",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0108_dialogue_george_3e70fffcfea8e069.wav",
+          "generation_id": "56be0c59-97ba-4cf4-98c6-adc4bab4c3aa",
+          "duration_seconds": 4.2
+        },
+        {
+          "profile": "Daniel",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0108_dialogue_daniel_6dff177ad2a0349e.wav",
+          "generation_id": "f9bd104f-2861-4ecc-b7fc-71e7abad8665",
+          "duration_seconds": 3.775
+        },
+        {
+          "profile": "Fable",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0108_dialogue_fable_be12964e94d78bf5.wav",
+          "generation_id": "97c30eea-ebaf-4055-b9e8-ebfb1bb93db9",
+          "duration_seconds": 4.125
+        },
+        {
+          "profile": "Lewis",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0108_dialogue_lewis_0cd9c42352eaddd7.wav",
+          "generation_id": "85534c07-c797-4b77-81fc-34eba3a8fad0",
+          "duration_seconds": 4.35
+        }
+      ]
+    },
+    {
+      "index": 109,
+      "kind": "unresolved-quote",
+      "text": "“Aye, sure; but wunna ye come in, Adam? Miss Mary's i' th' house, and Mester Burge 'ull be back anon; he'd be glad t' ha' ye to supper wi'm, I'll be's warrand.”",
+      "speaker_id": "#unknown",
+      "gender": "unknown",
+      "profile": "Alloy",
+      "quote_id": "q00065",
+      "source": "unresolved",
+      "confidence": 0.0,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0109_unresolved-quote_alloy_9ead17b22b99e11d.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0109_unresolved-quote_alloy_9ead17b22b99e11d.wav"
+        }
+      ]
+    },
+    {
+      "index": 110,
+      "kind": "unresolved-quote",
+      "text": "“No, Dolly, thank you; I'm off home. Good evening.”",
+      "speaker_id": "#unknown",
+      "gender": "unknown",
+      "profile": "Alloy",
+      "quote_id": "q00066",
+      "source": "unresolved",
+      "confidence": 0.0,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0110_unresolved-quote_alloy_3ebb363ef8ee10b5.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0110_unresolved-quote_alloy_3ebb363ef8ee10b5.wav"
+        }
+      ]
+    },
+    {
+      "index": 111,
+      "kind": "narration",
+      "text": "Adam hastened with long strides, Gyp close to his heels, out of the workyard, and along the highroad leading away from the village and down to the valley. As he reached the foot of the slope, an elderly horseman, with his portmanteau strapped behind him, stopped his horse when Adam had passed him, and turned round to have another long look at the stalwart workman in paper cap, leather breeches, and dark-blue worsted stockings. Adam, unconscious of the admiration he was exciting, presently struck across the fields, and now broke out into the tune which had all day long been running in his head: Let all thy converse be sincere, Thy conscience as the noonday clear; For God's all-seeing eye surveys Thy secret thoughts, thy works and ways.",
+      "speaker_id": "narrator",
+      "gender": "neutral",
+      "profile": "Alloy",
+      "quote_id": null,
+      "source": null,
+      "confidence": null,
+      "clip": "books/adam_bede/audio/chapter_1/clips/0111_narration_alloy_f2c971b1756a3293.wav",
+      "generation_id": null,
+      "duration_seconds": null,
+      "voice_options": [
+        {
+          "profile": "Alloy",
+          "clip": "books/adam_bede/audio/chapter_1/clips/0111_narration_alloy_f2c971b1756a3293.wav"
+        }
+      ]
+    }
+  ]
+}
